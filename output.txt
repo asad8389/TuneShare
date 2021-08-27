@@ -1,0 +1,353 @@
+User: "Disco Stew" has been registered
+User: "Peter Punk" has been registered
+User: "Country Candy" has been registered
+User: "Ronnie Rocker" has been registered
+User: "Sleeping Sam" has been registered
+Error adding User: "Disco Stew"
+Error adding User: "Mellow Marvin"
+
+Tune Share Center (5 registered users)
+
+0 Online Users:
+        NONE
+
+0 Available Songs:
+        NONE
+
+Logging on a user...
+
+Tune Share Center (5 registered users)
+
+1 Online Users:
+        Disco Stew with 0 songs as follows:
+
+0 Available Songs:
+        NONE
+
+Tune Share Center (5 registered users)
+
+1 Online Users:
+        Disco Stew with 7 songs as follows:
+                "Loneliness For Love" by Lovely the Band
+                "Desire 126" by Hollerado
+                "In My Head" by Ryland James
+                "Old Skool Love" by Divine Brown
+                "Details" by Billy Currington
+                "Photograph" by Ed Sheeran
+                "Why" by Frankie Avalon
+
+7 Available Songs:
+        "Loneliness For Love" by Lovely the Band (3:57)
+        "Desire 126" by Hollerado (3:7)
+        "In My Head" by Ryland James (3:25)
+        "Old Skool Love" by Divine Brown (3:24)
+        "Details" by Billy Currington (3:21)
+        "Photograph" by Ed Sheeran (3:22)
+        "Why" by Frankie Avalon (2:41)
+
+Available Songs By E-Type:
+        NONE
+
+Logging on three users...
+
+Tune Share Center (5 registered users)
+
+3 Online Users:
+        Disco Stew with 7 songs as follows:
+                "Loneliness For Love" by Lovely the Band
+                "Desire 126" by Hollerado
+                "In My Head" by Ryland James
+                "Old Skool Love" by Divine Brown
+                "Details" by Billy Currington
+                "Photograph" by Ed Sheeran
+                "Why" by Frankie Avalon
+        Peter Punk with 9 songs as follows:
+                "Back 2 Life" by E-Type
+                "Loneliness For Love" by Lovely the Band
+                "Perfect" by Ed Sheeran
+                "We Gotta Go" by E-Type
+                "How You Get the Girl" by Taylor Swift
+                "Dangerous" by Kardinal Offichall
+                "Brighter Than the Sun" by Colbie Caillat
+                "If Heaven Were to Fall" by E-Type
+                "Outta Style" by Aaron Watson
+        Country Candy with 9 songs as follows:
+                "Let's Go" by Group 1 Crew
+                "No Place" by Backstreet Boys
+                "We Gotta Go" by E-Type
+                "Catch" by Brett Young
+                "Here Tonight" by Brett Young
+                "Details" by Billy Currington
+                "Dangerous" by Kardinal Offichall
+                "Outta Style" by Aaron Watson
+                "Why" by Frankie Avalon
+
+25 Available Songs:
+        "Loneliness For Love" by Lovely the Band (3:57)
+        "Desire 126" by Hollerado (3:7)
+        "In My Head" by Ryland James (3:25)
+        "Old Skool Love" by Divine Brown (3:24)
+        "Details" by Billy Currington (3:21)
+        "Photograph" by Ed Sheeran (3:22)
+        "Why" by Frankie Avalon (2:41)
+        "Back 2 Life" by E-Type (3:37)
+        "Loneliness For Love" by Lovely the Band (3:57)
+        "Perfect" by Ed Sheeran (4:23)
+        "We Gotta Go" by E-Type (3:33)
+        "How You Get the Girl" by Taylor Swift (4:7)
+        "Dangerous" by Kardinal Offichall (4:11)
+        "Brighter Than the Sun" by Colbie Caillat (3:51)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "Outta Style" by Aaron Watson (3:42)
+        "Let's Go" by Group 1 Crew (4:16)
+        "No Place" by Backstreet Boys (2:59)
+        "We Gotta Go" by E-Type (3:33)
+        "Catch" by Brett Young (3:16)
+        "Here Tonight" by Brett Young (3:36)
+        "Details" by Billy Currington (3:21)
+        "Dangerous" by Kardinal Offichall (4:11)
+        "Outta Style" by Aaron Watson (3:42)
+        "Why" by Frankie Avalon (2:41)
+
+
+Logging on two more users...
+
+Tune Share Center (5 registered users)
+
+5 Online Users:
+        Disco Stew with 7 songs as follows:
+                "Loneliness For Love" by Lovely the Band
+                "Desire 126" by Hollerado
+                "In My Head" by Ryland James
+                "Old Skool Love" by Divine Brown
+                "Details" by Billy Currington
+                "Photograph" by Ed Sheeran
+                "Why" by Frankie Avalon
+        Peter Punk with 9 songs as follows:
+                "Back 2 Life" by E-Type
+                "Loneliness For Love" by Lovely the Band
+                "Perfect" by Ed Sheeran
+                "We Gotta Go" by E-Type
+                "How You Get the Girl" by Taylor Swift
+                "Dangerous" by Kardinal Offichall
+                "Brighter Than the Sun" by Colbie Caillat
+                "If Heaven Were to Fall" by E-Type
+                "Outta Style" by Aaron Watson
+        Country Candy with 9 songs as follows:
+                "Let's Go" by Group 1 Crew
+                "No Place" by Backstreet Boys
+                "We Gotta Go" by E-Type
+                "Catch" by Brett Young
+                "Here Tonight" by Brett Young
+                "Details" by Billy Currington
+                "Dangerous" by Kardinal Offichall
+                "Outta Style" by Aaron Watson
+                "Why" by Frankie Avalon
+        Ronnie Rocker with 5 songs as follows:
+                "Back 2 Life" by E-Type
+                "We Gotta Go" by E-Type
+                "Thinking Out Loud" by Ed Sheeran
+                "If Heaven Were to Fall" by E-Type
+                "I Just Wanna Be With You" by E-Type
+        Sleeping Sam with 1 songs as follows:
+                "Song Sung Blue" by Neil Diamond
+
+31 Available Songs:
+        "Loneliness For Love" by Lovely the Band (3:57)
+        "Desire 126" by Hollerado (3:7)
+        "In My Head" by Ryland James (3:25)
+        "Old Skool Love" by Divine Brown (3:24)
+        "Details" by Billy Currington (3:21)
+        "Photograph" by Ed Sheeran (3:22)
+        "Why" by Frankie Avalon (2:41)
+        "Back 2 Life" by E-Type (3:37)
+        "Loneliness For Love" by Lovely the Band (3:57)
+        "Perfect" by Ed Sheeran (4:23)
+        "We Gotta Go" by E-Type (3:33)
+        "How You Get the Girl" by Taylor Swift (4:7)
+        "Dangerous" by Kardinal Offichall (4:11)
+        "Brighter Than the Sun" by Colbie Caillat (3:51)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "Outta Style" by Aaron Watson (3:42)
+        "Let's Go" by Group 1 Crew (4:16)
+        "No Place" by Backstreet Boys (2:59)
+        "We Gotta Go" by E-Type (3:33)
+        "Catch" by Brett Young (3:16)
+        "Here Tonight" by Brett Young (3:36)
+        "Details" by Billy Currington (3:21)
+        "Dangerous" by Kardinal Offichall (4:11)
+        "Outta Style" by Aaron Watson (3:42)
+        "Why" by Frankie Avalon (2:41)
+        "Back 2 Life" by E-Type (3:37)
+        "We Gotta Go" by E-Type (3:33)
+        "Thinking Out Loud" by Ed Sheeran (4:41)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "I Just Wanna Be With You" by E-Type (3:50)
+        "Song Sung Blue" by Neil Diamond (3:5)
+
+Available Songs By E-Type:
+        "Back 2 Life" by E-Type (3:37)
+        "We Gotta Go" by E-Type (3:33)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "We Gotta Go" by E-Type (3:33)
+        "Back 2 Life" by E-Type (3:37)
+        "We Gotta Go" by E-Type (3:33)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "I Just Wanna Be With You" by E-Type (3:50)
+
+Logging off some users...
+
+Tune Share Center (5 registered users)
+
+3 Online Users:
+        Disco Stew with 7 songs as follows:
+                "Loneliness For Love" by Lovely the Band
+                "Desire 126" by Hollerado
+                "In My Head" by Ryland James
+                "Old Skool Love" by Divine Brown
+                "Details" by Billy Currington
+                "Photograph" by Ed Sheeran
+                "Why" by Frankie Avalon
+        Ronnie Rocker with 5 songs as follows:
+                "Back 2 Life" by E-Type
+                "We Gotta Go" by E-Type
+                "Thinking Out Loud" by Ed Sheeran
+                "If Heaven Were to Fall" by E-Type
+                "I Just Wanna Be With You" by E-Type
+        Sleeping Sam with 1 songs as follows:
+                "Song Sung Blue" by Neil Diamond
+
+13 Available Songs:
+        "Loneliness For Love" by Lovely the Band (3:57)
+        "Desire 126" by Hollerado (3:7)
+        "In My Head" by Ryland James (3:25)
+        "Old Skool Love" by Divine Brown (3:24)
+        "Details" by Billy Currington (3:21)
+        "Photograph" by Ed Sheeran (3:22)
+        "Why" by Frankie Avalon (2:41)
+        "Back 2 Life" by E-Type (3:37)
+        "We Gotta Go" by E-Type (3:33)
+        "Thinking Out Loud" by Ed Sheeran (4:41)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "I Just Wanna Be With You" by E-Type (3:50)
+        "Song Sung Blue" by Neil Diamond (3:5)
+
+Available Songs By E-Type:
+        "Back 2 Life" by E-Type (3:37)
+        "We Gotta Go" by E-Type (3:33)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "I Just Wanna Be With You" by E-Type (3:50)
+
+Sleeping Sam downloading 2 songs from Disco Stew and 2 from Ronnie Rocker...
+
+Ronnie Rocker downloading a songs from Sleeping Sam and a song from Disco Stew...
+
+Logging on Country Candy...
+
+Tune Share Center (5 registered users)
+
+4 Online Users:
+        Disco Stew with 7 songs as follows:
+                "Loneliness For Love" by Lovely the Band
+                "Desire 126" by Hollerado
+                "In My Head" by Ryland James
+                "Old Skool Love" by Divine Brown
+                "Details" by Billy Currington
+                "Photograph" by Ed Sheeran
+                "Why" by Frankie Avalon
+        Country Candy with 10 songs as follows:
+                "Let's Go" by Group 1 Crew
+                "No Place" by Backstreet Boys
+                "We Gotta Go" by E-Type
+                "Catch" by Brett Young
+                "Here Tonight" by Brett Young
+                "Details" by Billy Currington
+                "Dangerous" by Kardinal Offichall
+                "Outta Style" by Aaron Watson
+                "Why" by Frankie Avalon
+                "Song Sung Blue" by Neil Diamond
+        Ronnie Rocker with 7 songs as follows:
+                "Back 2 Life" by E-Type
+                "We Gotta Go" by E-Type
+                "Thinking Out Loud" by Ed Sheeran
+                "If Heaven Were to Fall" by E-Type
+                "I Just Wanna Be With You" by E-Type
+                "Song Sung Blue" by Neil Diamond
+                "Desire 126" by Hollerado
+        Sleeping Sam with 5 songs as follows:
+                "Song Sung Blue" by Neil Diamond
+                "Old Skool Love" by Divine Brown
+                "In My Head" by Ryland James
+                "If Heaven Were to Fall" by E-Type
+                "I Just Wanna Be With You" by E-Type
+
+29 Available Songs:
+        "Loneliness For Love" by Lovely the Band (3:57)
+        "Desire 126" by Hollerado (3:7)
+        "In My Head" by Ryland James (3:25)
+        "Old Skool Love" by Divine Brown (3:24)
+        "Details" by Billy Currington (3:21)
+        "Photograph" by Ed Sheeran (3:22)
+        "Why" by Frankie Avalon (2:41)
+        "Let's Go" by Group 1 Crew (4:16)
+        "No Place" by Backstreet Boys (2:59)
+        "We Gotta Go" by E-Type (3:33)
+        "Catch" by Brett Young (3:16)
+        "Here Tonight" by Brett Young (3:36)
+        "Details" by Billy Currington (3:21)
+        "Dangerous" by Kardinal Offichall (4:11)
+        "Outta Style" by Aaron Watson (3:42)
+        "Why" by Frankie Avalon (2:41)
+        "Song Sung Blue" by Neil Diamond (3:5)
+        "Back 2 Life" by E-Type (3:37)
+        "We Gotta Go" by E-Type (3:33)
+        "Thinking Out Loud" by Ed Sheeran (4:41)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "I Just Wanna Be With You" by E-Type (3:50)
+        "Song Sung Blue" by Neil Diamond (3:5)
+        "Desire 126" by Hollerado (3:7)
+        "Song Sung Blue" by Neil Diamond (3:5)
+        "Old Skool Love" by Divine Brown (3:24)
+        "In My Head" by Ryland James (3:25)
+        "If Heaven Were to Fall" by E-Type (3:43)
+        "I Just Wanna Be With You" by E-Type (3:50)
+
+
+Logging off three more users...
+
+Tune Share Center (5 registered users)
+
+1 Online Users:
+        Country Candy with 10 songs as follows:
+                "Let's Go" by Group 1 Crew
+                "No Place" by Backstreet Boys
+                "We Gotta Go" by E-Type
+                "Catch" by Brett Young
+                "Here Tonight" by Brett Young
+                "Details" by Billy Currington
+                "Dangerous" by Kardinal Offichall
+                "Outta Style" by Aaron Watson
+                "Why" by Frankie Avalon
+                "Song Sung Blue" by Neil Diamond
+
+10 Available Songs:
+        "Let's Go" by Group 1 Crew (4:16)
+        "No Place" by Backstreet Boys (2:59)
+        "We Gotta Go" by E-Type (3:33)
+        "Catch" by Brett Young (3:16)
+        "Here Tonight" by Brett Young (3:36)
+        "Details" by Billy Currington (3:21)
+        "Dangerous" by Kardinal Offichall (4:11)
+        "Outta Style" by Aaron Watson (3:42)
+        "Why" by Frankie Avalon (2:41)
+        "Song Sung Blue" by Neil Diamond (3:5)
+
+Available Songs By E-Type:
+        "We Gotta Go" by E-Type (3:33)
+
+Here are the royalties to be paid:
+$  0.25 Divine Brown
+$  0.25 Ryland James
+$  0.50 E-Type
+$  0.50 Neil Diamond
+$  0.25 Hollerado
